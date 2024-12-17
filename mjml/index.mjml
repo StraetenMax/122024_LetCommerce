@@ -41,19 +41,19 @@
         <mj-text padding-bottom="0" padding-top="0" mj-class="dH1 cO">Découvertes des étudiants en apprentissage dans leur entreprise</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#000000" padding="0">
+    <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%">
         <mj-image padding="0" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/HtdqrSN/let-Com01-122024.jpg"></mj-image>
       </mj-column>
       <mj-column width="50%">
-        <mj-text></mj-text>
+        <mj-text mj-class="dH1"></mj-text>
         <mj-text mj-class="dT" padding-top="0" padding-bottom="0"><span style="font-weight:700;">Missions :</span> Mise en rayon, Respect du merchandesing, Organisation d'opération commerciales, Missions de management, Gestion des livraisons et des stocks</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
       <mj-column width="50%">
-        <mj-image width="60px" src="" alt="logo Levis"></mj-image>
-        <mj-text mj-class="dH1">XXXXX</mj-text>
+        <mj-image width="60px" src="https://i.ibb.co/PCdy14J/logo2.jpg" alt="logo Levis"></mj-image>
+        <mj-text mj-class="dH1" padding-top="0">XXXXX</mj-text>
         <mj-text mj-class="dT" padding-top="0" padding-bottom="0"><span style="font-weight:700;">Missions :</span> Mise en rayon, Respect du merchandesing, Organisation d'opération commerciales, Missions de management, Gestion des livraisons et des stocks</mj-text>
       </mj-column>
       <mj-column width="50%">
