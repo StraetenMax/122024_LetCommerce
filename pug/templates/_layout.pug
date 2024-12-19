@@ -15,12 +15,16 @@ mjml
             mj-class(name='cOF' color="#AA3E17")/
             mj-class(name="cO" color="#EC6608")
         mj-breakpoint(width="480px")
+        mj-style.   
+            @media(max-width: 480px){
+                .sens{
+                    direction:rtl!important;
+                }
+            }
+            
     mj-body(background-color='#edf2f7')
         //- content
         block content
-        //- article superquinquin
-            block superquinquin
-            include ../includes/_superquinquin
         //- alternance
         block alternance
             include ../includes/_alternance
