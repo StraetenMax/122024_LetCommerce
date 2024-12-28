@@ -59,14 +59,14 @@
         <mj-text mj-class="dT" padding-top="0" padding-bottom="0"><span style="font-weight:700;color:#AA3E17;">Missions :</span> Mise en rayon, Respect du merchandising, Organisation d'opérations commerciales, Missions de management, Conseil et Vente...</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="0">
+    <mj-section background-color="#ffffff" padding="0" direction="rtl">
+      <mj-column>
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/CHXc8q7/let-Com04-122024.jpg" alt="Benjamin alternant BTS MCO chez Levi's Strauss"></mj-image>
+      </mj-column>
       <mj-column>
         <mj-image width="60px" src="https://i.ibb.co/PCdy14J/logo2.jpg" alt="logo Levi's"></mj-image>
         <mj-text mj-class="dH1" padding-top="0">Benjamin</mj-text>
         <mj-text mj-class="dT" padding-top="0" padding-bottom="0"><span style="font-weight:700; color:#AA3E17;">Missions :</span> Mise en rayon, Suivi du merchandising, Conseil et Vente, Communication sur les réseaux sociaux...</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image padding="0" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/CHXc8q7/let-Com04-122024.jpg" alt="Benjamin alternant BTS MCO chez Levi's Strauss"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
@@ -79,14 +79,14 @@
         <mj-text mj-class="dT" padding-top="0" padding-bottom="0"><span style="font-weight:700;color:#AA3E17;">Missions :</span> Mise en rayon, Respect du merchandising, Organisation d'opérations commerciales, Missions de management, Gestion des livraisons et des stocks...</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="40px">
+    <mj-section background-color="#ffffff" padding-top="0" padding-bottom="40px" direction="rtl">
+      <mj-column>
+        <mj-image padding="0" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/MZt0XtQ/let-Com03-122024.jpg" alt="Erickson alternant BTS MCO chez Bouygues Télécom"></mj-image>
+      </mj-column>
       <mj-column>
         <mj-image width="60px" src="https://i.ibb.co/TvFhqZ6/logo7.jpg" alt="logo Bouygues"></mj-image>
         <mj-text mj-class="dH1" padding-top="0">Erickson</mj-text>
         <mj-text mj-class="dT" padding-top="0" padding-bottom="0"><span style="font-weight:700;color:#AA3E17;">Missions :</span> Mise en rayon, Respect du merchandising, Missions de management, Conseil et Vente...</mj-text>
-      </mj-column>
-      <mj-column>
-        <mj-image padding="0" width="480px" fluid-on-mobile="true" src="https://i.ibb.co/MZt0XtQ/let-Com03-122024.jpg" alt="Erickson alternant BTS MCO chez Bouygues Télécom"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="0">
